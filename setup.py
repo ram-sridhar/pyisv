@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pyisv",
-    version="0.0.4",
+    version="1.0.0",
     packages=find_packages(),
     install_requires=[
     ],
@@ -11,8 +11,7 @@ setup(
     description="A Machine Learning Technique to Extract the Intra Seasonal Variability (ISV) from the Geophysical Data.",
     url="https://github.com/ram-sridhar/pyisv",
     classifiers=[
-        "Development Status :: 3 - Alpha",
-        "License :: OSI Approved :: MIT License",
+        "LICENSE :: OSI APPROVED :: APACHE SOFTWARE LICENSE",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.10",
     ],

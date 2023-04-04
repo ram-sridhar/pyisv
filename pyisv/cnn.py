@@ -6,7 +6,7 @@ import multiprocessing
 import numpy as np
 import tensorflow as tf
     
-#Copyright (C) 2023 Rama Sesha Sridhar Mantripragada. All rights reserved.
+
 #This file is part of pyISV.
     
 def check_system_capabilities():

@@ -1,7 +1,6 @@
 import numpy as np
 import copy
 
-# Copyright (C) 2023 Rama Sesha Sridhar Mantripragada. All rights reserved.
 # This file is part of pyISV.
 
 

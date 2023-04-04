@@ -3,7 +3,6 @@ import numpy as np
 import xarray as xr
 import copy
 
-# Copyright (C) 2023 Rama Sesha Sridhar Mantripragada. All rights reserved.
 # This file is part of pyISV.
 
 def check_if_packages_installed():
