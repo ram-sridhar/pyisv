@@ -1,1 +1,1 @@
-The code for the figures in Stan and Mantripragada (2023)
+Jupyter notebooks for the figures in Stan and Mantripragada (2023)
