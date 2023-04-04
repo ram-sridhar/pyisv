@@ -1,4 +1,4 @@
-LICENSE
+LICENSE.md
 README.rst
 setup.py
 pyisv/__init__.py

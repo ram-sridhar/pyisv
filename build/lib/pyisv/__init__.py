@@ -2,8 +2,6 @@
 
 """ """
 
-# Copyright (C) 2023 Rama Sesha Sridhar Mantripragada. All rights reserved.
-
 # This file is part of pyISV
 
 # This program is free software: you can redistribute it and/or modify

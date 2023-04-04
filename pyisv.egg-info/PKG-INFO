@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pyisv
-Version: 0.0.3
+Version: 0.0.4
 Summary: A Machine Learning Technique to Extract the Intra Seasonal Variability (ISV) from the Geophysical Data.
 Home-page: https://github.com/ram-sridhar/pyisv
 Author: Rama Sesha Sridhar Mantripragada
@@ -9,4 +9,4 @@ Classifier: Development Status :: 3 - Alpha
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.10
-License-File: LICENSE
+License-File: LICENSE.md
