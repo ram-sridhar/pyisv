@@ -14,11 +14,11 @@ Documentation
 Installation
 ============
 
-Proplot is published on `PyPi <https://pypi.org/project/pyisv/>`__
+pyisv is published on `PyPi <https://pypi.org/project/pyisv/>`__
 
 .. code-block:: bash
 
-   pip install proplot
+   pip install pyisv
 
 Dependencies
 ============
@@ -33,19 +33,31 @@ Installation Instructions for Dependencies
 
 Replace newenv with the your environemnt
 
-conda create -n newenv python=3.10.5
+.. code-block:: bash
 
-conda activate newenv
+   conda create -n newenv python=3.10.5
 
-pip install git+https://github.com/proplot-dev/proplot.git
+.. code-block:: bash
 
-conda install -c anaconda netcdf4
+   conda activate newenv
+
+.. code-block:: bash
+
+   pip install git+https://github.com/proplot-dev/proplot.git
+
+.. code-block:: bash
+
+   conda install -c anaconda netcdf4
 
 conda install tensorflow
 
-conda install -c conda-forge jupyterlab
+.. code-block:: bash
 
-python -m ipykernel install --user --name=newenv
+   conda install -c conda-forge jupyterlab
+
+.. code-block:: bash
+
+   python -m ipykernel install --user --name=newenv
 
 .. |doi| image:: https://zenodo.org/badge/623253615.svg
    :alt: doi
