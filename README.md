@@ -1,7 +1,14 @@
 # pyisv
 A Machine Learning Technique to Extract the Intra Seasonal Variability (ISV) from the Geophysical Data
 
-### Installation Instructions
+Dependencies:
+
+1. proplot
+2. xarray
+3. tensorflow
+4. netcdf4
+
+### Installation Instructions 
 #### Replace newenv with the your environemnt
 
 conda create -n newenv python=3.10.5
