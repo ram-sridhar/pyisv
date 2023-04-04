@@ -53,6 +53,10 @@ Replace newenv with the your environemnt
 
 .. code-block:: bash
 
+   conda install -c conda-forge xarray
+
+.. code-block:: bash
+
    conda install tensorflow
 
 .. code-block:: bash
