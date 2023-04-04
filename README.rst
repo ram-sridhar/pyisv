@@ -20,6 +20,8 @@ pyisv is published on `PyPi <https://pypi.org/project/pyisv/>`__
 
    pip install pyisv
 
+Please install the dependencies before installing the pysiv
+
 Dependencies
 ============
 
