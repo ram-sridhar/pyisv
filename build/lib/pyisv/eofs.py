@@ -5,7 +5,6 @@ import copy
 
 def process_evec(ds, evec_name):
     """
-    Copyright (C) 2023 Rama Sesha Sridhar Mantripragada. All rights reserved.
     This file is part of pyISV.
     
     Process eigenvectors.

@@ -11,7 +11,8 @@ setup(
     description="A Machine Learning Technique to Extract the Intra Seasonal Variability (ISV) from the Geophysical Data.",
     url="https://github.com/ram-sridhar/pyisv",
     classifiers=[
-        "LICENSE :: OSI APPROVED :: APACHE SOFTWARE LICENSE",
+        "Development Status :: 5 - Production/Stable",
+        "License :: OSI Approved :: Apache Software License",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.10",
     ],
