@@ -14,7 +14,14 @@ Documentation
 Installation
 ============
 
-Dependencies:
+Proplot is published on `PyPi <https://pypi.org/project/pyisv/>`__
+
+.. code-block:: bash
+
+   pip install proplot
+
+Dependencies
+============
 
 1. proplot
 2. xarray
