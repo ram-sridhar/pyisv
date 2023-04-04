@@ -71,3 +71,7 @@ Replace newenv with the your environemnt
    :alt: doi
    :target: https://zenodo.org/badge/latestdoi/623253615
    
+AMS-AIES
+============
+
+The code used to generate the Figures in Stan and Mantripragada (2023) is placed in AMS-AIES folder
