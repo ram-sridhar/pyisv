@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pyisv
-Version: 0.0.2
+Version: 0.0.3
 Summary: A Machine Learning Technique to Extract the Intra Seasonal Variability (ISV) from the Geophysical Data.
 Home-page: https://github.com/ram-sridhar/pyisv
 Author: Rama Sesha Sridhar Mantripragada

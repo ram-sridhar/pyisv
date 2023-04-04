@@ -1,6 +1,6 @@
 import xarray as xr
 import numpy as np
-from pyISV.utils import read_dataset_with_warning_suppressed
+from pyisv.utils import read_dataset_with_warning_suppressed
 import copy
 
 def process_evec(ds, evec_name):
