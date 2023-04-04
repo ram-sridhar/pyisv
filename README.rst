@@ -7,6 +7,11 @@ A Machine Learning Technique to Extract the Intra Seasonal Variability (ISV) fro
 
 |doi|
 
+AMS-AIES
+============
+
+The code used to generate the Figures in Stan and Mantripragada (2023) are placed in AMS-AIES folder
+
 Documentation
 =============
 
@@ -71,7 +76,3 @@ Replace newenv with the your environemnt
    :alt: doi
    :target: https://zenodo.org/badge/latestdoi/623253615
    
-AMS-AIES
-============
-
-The code used to generate the Figures in Stan and Mantripragada (2023) is placed in AMS-AIES folder
