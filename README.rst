@@ -57,7 +57,7 @@ Replace newenv with the your environemnt
 
 .. code-block:: bash
 
-   conda install tensorflow
+   conda install -c anaconda tensorflow
 
 .. code-block:: bash
 
